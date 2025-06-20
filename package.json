@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Taskinger is a modern, developer-friendly task management platform designed to streamline personal and team productivity. Whether you're a solo dev, a startup, or a large team, Taskinger provides intuitive tools to help you manage tasks, deadlines, and collaboration with ease.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taskinger/Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taskinger/Backend/issues"
+  },
+  "homepage": "https://github.com/Taskinger/Backend#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
