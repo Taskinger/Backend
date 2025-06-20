@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Taskinger/Backend#readme",
   "dependencies": {
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.16.0",
     "nodemon": "^3.1.10"
   }
 }
